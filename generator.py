@@ -24,7 +24,7 @@ def make_list():
     other_result = []
     for file in file_list:
         # print(file)
-        full_path = file
+        full_path = 'https://github.com/djh0211/from_2022.06_Algorithm/tree/main/'+ file.split("/")[-2] +'/'+file.split("/")[-1]
         prob_name = file.split("/")[-1].split(".")[0]
         file_name = file.split("/")[-1]
 
