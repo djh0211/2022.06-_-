@@ -44,19 +44,12 @@
 30|[7576](https://www.acmicpc.net/problem/7576)|[7576.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/7576/7576.py)
 31|[24445](https://www.acmicpc.net/problem/24445)|[24445.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24445/24445.py)
 32|[1012](https://www.acmicpc.net/problem/1012)|[1012.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1012/1012.py)
+1|[두배열의원소교체]|[두배열의원소교체.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/정렬/두배열의원소교체.py)
+2|[동빈이의 미로탈출]|[동빈이의 미로탈출.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3. DFS_BFS/동빈이의 미로탈출.py)
+3|[음료수 얼려먹기]|[음료수 얼려먹기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3. DFS_BFS/음료수 얼려먹기.py)
+4|[떡볶이떡자르기]|[떡볶이떡자르기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/이진탐색/떡볶이떡자르기.py)
 
 
 ---
 
-### [이코테](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
-
-__leecote_table__
-
----
-
-### [프로그래머스](https://programmers.co.kr/)
-
-__programmers_table__
-
----
 

@@ -35,7 +35,7 @@ def make_list():
 
     return baek_result, other_result
 
-def make_markdown_table(hlist: list[dict]):
+def make_baek_markdown_table(hlist1: list[dict],hlist2: list[dict]):
     """
     흠..
     """
@@ -52,17 +52,16 @@ def make_markdown_table(hlist: list[dict]):
 
     baselink = 'https://www.acmicpc.net/problem/'
 
-    for index, header in enumerate(hlist):
+    for index, header in enumerate(hlist1):
         result.append(
             f"{index+1}|[{header[0]}]({baselink+header[0]})|[{header[1]}]({header[2]})")
+    for index, header in enumerate(hlist2):
+        result.append(
+            f"{index+1}|[{header[0]}]|[{header[1]}]({header[2]})")
 
-
-    # for index, header in enumerate(hlist):
-    #     done = '✔️' if header["done"] else '❌'
-    #     result.append(
-    #         f"{index+1}|[{header['name']}]({header['src']})|{', '.join(header['tags'])}|[{header['file_name']}]({header['file']})|{done}")
     result.append('')
     return '\n'.join(result)
+
 
 def file_read_to_end(path: str):
     f = open(path, "r", encoding='utf-8')
@@ -71,18 +70,20 @@ def file_read_to_end(path: str):
     return content
 
 
-a,b = make_list()
-# print(a)
-# print(b)
-md_table = make_markdown_table(a)
+baek, other = make_list()
+
+md_table = make_baek_markdown_table(baek,other)
+
 
 # print(md_table)
 
 template = file_read_to_end('template.md')
 readme_text = template.replace("__baekjoon_table__", md_table)
+
 path = os.getcwd()
 
 f = open(os.path.join(path, 'README2.md'), "w", encoding='utf-8')
 f.write(readme_text)
+
 f.close()
 
