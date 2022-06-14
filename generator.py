@@ -24,11 +24,14 @@ def make_list():
     other_result = []
     for file in file_list:
         # print(file)
-        prob_num = file.split("/")[-1].split(".")[0]
-        if prob_num.isdigit():
-            baek_result.append(prob_num)
-        elif prob_num != 'generator':
-            other_result.append(prob_num)
+        full_path = file
+        prob_name = file.split("/")[-1].split(".")[0]
+        file_name = file.split("/")[-1]
+
+        if prob_name.isdigit():
+            baek_result.append((prob_name,file_name,full_path))
+        elif prob_name != 'generator':
+            other_result.append((prob_name,file_name,full_path))
 
     return baek_result, other_result
 
@@ -39,20 +42,26 @@ def make_markdown_table(hlist: list[dict]):
     result = []
 
     columns = [
-        {"name": "#", "size": 5},
+        {"name": "#", "size": 8},
         {"name": "문제 이름", "size": 20},
-        {"name": "유형", "size": 15},
         {"name": "풀이", "size": 10},
-        {"name": "완료", "size": 6},
+        
     ]
     result.append('|'.join([key["name"] for key in columns]))
     result.append('|'.join([key["size"]*'-' for key in columns]))
+
+    baselink = 'https://www.acmicpc.net/problem/'
+
+    for index, header in enumerate(hlist):
+        result.append(
+            f"{index+1}|[{header[0]}]({baselink+header[0]})|[{header[1]}]({header[2]})")
+
 
     # for index, header in enumerate(hlist):
     #     done = '✔️' if header["done"] else '❌'
     #     result.append(
     #         f"{index+1}|[{header['name']}]({header['src']})|{', '.join(header['tags'])}|[{header['file_name']}]({header['file']})|{done}")
-    # result.append('')
+    result.append('')
     return '\n'.join(result)
 
 def file_read_to_end(path: str):
