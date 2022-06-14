@@ -24,7 +24,7 @@ def make_list():
     other_result = []
     for file in file_list:
         # print(file)
-        full_path = 'https://github.com/djh0211/from_2022.06_Algorithm/tree/main/'+ file.split("/")[-2] +'/'+file.split("/")[-1]
+        full_path = 'https://github.com/djh0211/from_2022.06_Algorithm/tree/main/'+ '/'.join(file.split("/")[-2:])
         prob_name = file.split("/")[-1].split(".")[0]
         file_name = file.split("/")[-1]
 
@@ -82,7 +82,7 @@ readme_text = template.replace("__baekjoon_table__", md_table)
 
 path = os.getcwd()
 
-f = open(os.path.join(path, 'README2.md'), "w", encoding='utf-8')
+f = open(os.path.join(path, 'README.md'), "w", encoding='utf-8')
 f.write(readme_text)
 
 f.close()

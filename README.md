@@ -1,17 +1,55 @@
-> # 푼 문제 리스트
-| 문제                                                                | 풀이                                                                                                                                                |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [BOJ 10872 - 팩토리얼](https://www.acmicpc.net/problem/10872)             | [알고리즘스터디/10872](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/10872/10872.py)   |
-| [BOJ 10870 - 피보나치 수 5](https://www.acmicpc.net/problem/10870)             | [알고리즘스터디/10870](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/10870/10870.py)   |
-| [이코테 - 음료수얼려먹기](https://www.youtube.com/watch?v=7C9RgOcvkvo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3)             | [알고리즘스터디/음료수얼려먹기](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/3.%20DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.py)   |
-| [이코테 - 동빈이의 미로탈출](https://www.youtube.com/watch?v=7C9RgOcvkvo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3)             | [알고리즘스터디/동빈이의 미로탈출](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/3.%20DFS_BFS/%EB%8F%99%EB%B9%88%EC%9D%B4%EC%9D%98%20%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.py)   |
-| [BOJ 10815 - 숫자 카드](https://www.acmicpc.net/problem/10815)             | [알고리즘스터디/10815](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/10815/10815.py)   |
-| [BOJ 11478 - 서로 다른 부분 문자열](https://www.acmicpc.net/problem/11478)             | [알고리즘스터디/11478](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/11478/11478.py)   |
-| [BOJ 1269 - 대칭 차집합](https://www.acmicpc.net/problem/1269)             | [알고리즘스터디/1269](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/1269/1269.py)   |
-| [BOJ 14425 - 문자열 집합](https://www.acmicpc.net/problem/14425)             | [알고리즘스터디/14425](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/14425/14425.py)   |
-| [BOJ 15649 - N과M(1)](https://www.acmicpc.net/problem/15649)             | [알고리즘스터디/15649](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/15649/15649.py)   |
-| [BOJ 1654 - 랜선 자르기](https://www.acmicpc.net/problem/1654)             | [알고리즘스터디/1654](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/1654/1654.py)   |
-| [BOJ 1920 - 수 찾기](https://www.acmicpc.net/problem/1920)             | [알고리즘스터디/1920](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/1920/1920.py)   |
-| [BOJ 9012 - 괄호](https://www.acmicpc.net/problem/9012)             | [알고리즘스터디/9012](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/9012/9012.py)   |
-| [이코테 - 떡볶이떡자르기](https://www.youtube.com/watch?v=94RC-DsGMLo&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=5)             | [알고리즘스터디/떡볶이떡자르기](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EB%96%A1%EB%B3%B6%EC%9D%B4%EB%96%A1%EC%9E%90%EB%A5%B4%EA%B8%B0.py)   |
-| [이코테 - 두배열의원소교체](https://www.youtube.com/watch?v=KGyK-pNvWos&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=4)             | [이코테/두배열의원소교체](https://github.com/djh0211/from_2022.06_Algorithm/blob/main/%EC%A0%95%EB%A0%AC/%EB%91%90%EB%B0%B0%EC%97%B4%EC%9D%98%EC%9B%90%EC%86%8C%EA%B5%90%EC%B2%B4.py)   |
+# 알고리즘 공부
+
+6월부터 시작하는 알고리즘 공부
+
+## 사용 언어
+
+- Python
+
+## 문제 풀이
+
+### [백준](https://www.acmicpc.net/)
+
+#|문제 이름|풀이
+--------|--------------------|----------
+1|[1654](https://www.acmicpc.net/problem/1654)|[1654.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1654/1654.py)
+2|[1655](https://www.acmicpc.net/problem/1655)|[1655.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1655/1655.py)
+3|[7569](https://www.acmicpc.net/problem/7569)|[7569.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/7569/7569.py)
+4|[1697](https://www.acmicpc.net/problem/1697)|[1697.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1697/1697.py)
+5|[1920](https://www.acmicpc.net/problem/1920)|[1920.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1920/1920.py)
+6|[1927](https://www.acmicpc.net/problem/1927)|[1927.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1927/1927.py)
+7|[11286](https://www.acmicpc.net/problem/11286)|[11286.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/11286/11286.py)
+8|[11478](https://www.acmicpc.net/problem/11478)|[11478.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/11478/11478.py)
+9|[9012](https://www.acmicpc.net/problem/9012)|[9012.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/9012/9012.py)
+10|[24479](https://www.acmicpc.net/problem/24479)|[24479.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24479/24479.py)
+11|[2667](https://www.acmicpc.net/problem/2667)|[2667.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2667/2667.py)
+12|[16928](https://www.acmicpc.net/problem/16928)|[16928.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/16928/16928.py)
+13|[14425](https://www.acmicpc.net/problem/14425)|[14425.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/14425/14425.py)
+14|[10872](https://www.acmicpc.net/problem/10872)|[10872.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/10872/10872.py)
+15|[4949](https://www.acmicpc.net/problem/4949)|[4949.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/4949 ing/4949.py)
+16|[2110](https://www.acmicpc.net/problem/2110)|[2110.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2110 ing/2110.py)
+17|[7562](https://www.acmicpc.net/problem/7562)|[7562.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/7562/7562.py)
+18|[1260](https://www.acmicpc.net/problem/1260)|[1260.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1260/1260.py)
+19|[1269](https://www.acmicpc.net/problem/1269)|[1269.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1269/1269.py)
+20|[2178](https://www.acmicpc.net/problem/2178)|[2178.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2178/2178.py)
+21|[15649](https://www.acmicpc.net/problem/15649)|[15649.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/15649/15649.py)
+22|[2447](https://www.acmicpc.net/problem/2447)|[2447.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2447...ing/2447.py)
+23|[11279](https://www.acmicpc.net/problem/11279)|[11279.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/11279/11279.py)
+24|[10870](https://www.acmicpc.net/problem/10870)|[10870.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/10870/10870.py)
+25|[2206](https://www.acmicpc.net/problem/2206)|[2206.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2206/2206.py)
+26|[24444](https://www.acmicpc.net/problem/24444)|[24444.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24444/24444.py)
+27|[10815](https://www.acmicpc.net/problem/10815)|[10815.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/10815/10815.py)
+28|[2606](https://www.acmicpc.net/problem/2606)|[2606.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2606/2606.py)
+29|[24480](https://www.acmicpc.net/problem/24480)|[24480.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24480/24480.py)
+30|[7576](https://www.acmicpc.net/problem/7576)|[7576.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/7576/7576.py)
+31|[24445](https://www.acmicpc.net/problem/24445)|[24445.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24445/24445.py)
+32|[1012](https://www.acmicpc.net/problem/1012)|[1012.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1012/1012.py)
+1|[동빈이의 미로탈출]|[동빈이의 미로탈출.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3.DFS_BFS/동빈이의 미로탈출.py)
+2|[음료수 얼려먹기]|[음료수 얼려먹기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3.DFS_BFS/음료수 얼려먹기.py)
+3|[두배열의원소교체]|[두배열의원소교체.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/정렬/두배열의원소교체.py)
+4|[떡볶이떡자르기]|[떡볶이떡자르기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/이진탐색/떡볶이떡자르기.py)
+
+
+---
+
+
