@@ -11,7 +11,7 @@
 ### [백준](https://www.acmicpc.net/)
 
 #|문제 이름|풀이
---------|--------------------|----------
+--------|----------|----------
 1|[1654](https://www.acmicpc.net/problem/1654)|[1654.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1654/1654.py)
 2|[1655](https://www.acmicpc.net/problem/1655)|[1655.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1655/1655.py)
 3|[7569](https://www.acmicpc.net/problem/7569)|[7569.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/7569/7569.py)

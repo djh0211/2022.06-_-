@@ -43,7 +43,7 @@ def make_baek_markdown_table(hlist1: list[dict],hlist2: list[dict]):
 
     columns = [
         {"name": "#", "size": 8},
-        {"name": "문제 이름", "size": 20},
+        {"name": "문제 이름", "size": 10},
         {"name": "풀이", "size": 10},
         
     ]
