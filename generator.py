@@ -70,20 +70,17 @@ def file_read_to_end(path: str):
     return content
 
 
-baek, other = make_list()
+if __name__ == '__main__':
+    baek, other = make_list()
+    md_table = make_baek_markdown_table(baek,other)
+    template = file_read_to_end('template.md')
+    readme_text = template.replace("__baekjoon_table__", md_table)
 
-md_table = make_baek_markdown_table(baek,other)
+    path = os.getcwd()
 
+    f = open(os.path.join(path, 'README.md'), "w", encoding='utf-8')
+    f.write(readme_text)
 
-# print(md_table)
+    f.close()
 
-template = file_read_to_end('template.md')
-readme_text = template.replace("__baekjoon_table__", md_table)
-
-path = os.getcwd()
-
-f = open(os.path.join(path, 'README.md'), "w", encoding='utf-8')
-f.write(readme_text)
-
-f.close()
 
