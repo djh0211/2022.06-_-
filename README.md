@@ -68,8 +68,11 @@
 2|[음료수 얼려먹기]|[음료수 얼려먹기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3.DFS_BFS/음료수 얼려먹기.py)
 3|[떡볶이떡자르기]|[떡볶이떡자르기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/이진탐색/떡볶이떡자르기.py)
 4|[주차요금계산]|[주차요금계산.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2022 KAKAO BLIND RECRUITMENT/주차요금계산.py)
-5|[신고결과받기]|[신고결과받기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2022 KAKAO BLIND RECRUITMENT/신고결과받기.py)
-6|[두배열의원소교체]|[두배열의원소교체.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/정렬/두배열의원소교체.py)
+5|[양궁대회]|[양궁대회.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2022 KAKAO BLIND RECRUITMENT/양궁대회.py)
+6|[신고결과받기]|[신고결과받기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2022 KAKAO BLIND RECRUITMENT/신고결과받기.py)
+7|[파괴되지않은건물]|[파괴되지않은건물.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2022 KAKAO BLIND RECRUITMENT/파괴되지않은건물.py)
+8|[k진수에서소수개수구하기]|[k진수에서소수개수구하기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/2022 KAKAO BLIND RECRUITMENT/k진수에서소수개수구하기.py)
+9|[두배열의원소교체]|[두배열의원소교체.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/정렬/두배열의원소교체.py)
 
 
 ---
