@@ -66,6 +66,7 @@
 52|[1](https://www.acmicpc.net/problem/1)|[1.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/MakinaRocksCodingTest/1.py)
 53|[2](https://www.acmicpc.net/problem/2)|[2.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/MakinaRocksCodingTest/2.py)
 54|[1269](https://www.acmicpc.net/problem/1269)|[1269.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1269/1269.py)
+55|[1450](https://www.acmicpc.net/problem/1450)|[1450.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/1450/1450.py)
 1|[동빈이의 미로탈출]|[동빈이의 미로탈출.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3.DFS_BFS/동빈이의 미로탈출.py)
 2|[음료수 얼려먹기]|[음료수 얼려먹기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/3.DFS_BFS/음료수 얼려먹기.py)
 3|[떡볶이떡자르기]|[떡볶이떡자르기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/이진탐색/떡볶이떡자르기.py)
