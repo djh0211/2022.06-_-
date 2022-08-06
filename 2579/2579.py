@@ -24,6 +24,3 @@ else:
 
     print(dp[N-1])
 
-'''
-dp[k] = (dp[k-2]+points[k], dp[k-1]+points[k])
-'''
