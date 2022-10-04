@@ -128,14 +128,15 @@
 35|[봉우리]|[봉우리.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/봉우리.py)
 36|[곳감]|[곳감.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/곳감.py)
 37|[격자판최대합]|[격자판최대합.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/격자판최대합.py)
-38|[숫자만추출]|[숫자만추출.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/숫자만추출.py)
-39|[수들의합____]|[수들의합____.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/수들의합____.py)
-40|[사과나무]|[사과나무.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/사과나무.py)
-41|[카드역배치]|[카드역배치.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/카드역배치.py)
-42|[회문문자열검사]|[회문문자열검사.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/회문문자열검사.py)
-43|[떡볶이떡자르기]|[떡볶이떡자르기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/이진탐색/떡볶이떡자르기.py)
-44|[11478_2]|[11478_2.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/11478/11478_2.py)
-45|[24479_2]|[24479_2.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24479/24479_2.py)
+38|[스토쿠검사]|[스토쿠검사.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/스토쿠검사.py)
+39|[숫자만추출]|[숫자만추출.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/숫자만추출.py)
+40|[수들의합____]|[수들의합____.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/수들의합____.py)
+41|[사과나무]|[사과나무.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/사과나무.py)
+42|[카드역배치]|[카드역배치.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/카드역배치.py)
+43|[회문문자열검사]|[회문문자열검사.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/섹션3/회문문자열검사.py)
+44|[떡볶이떡자르기]|[떡볶이떡자르기.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/이진탐색/떡볶이떡자르기.py)
+45|[11478_2]|[11478_2.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/11478/11478_2.py)
+46|[24479_2]|[24479_2.py](https://github.com/djh0211/from_2022.06_Algorithm/tree/main/24479/24479_2.py)
 
 
 ---
